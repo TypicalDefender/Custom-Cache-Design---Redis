@@ -4,7 +4,7 @@ LLD designs are of two types: Machine coding where you actually build something.
 
 Machine coding is similar to HLD where you clarify requirements of the object you are building, and then move on to code it. It requires some show to executable code.
 
-######Readability
+###### Readability
 
 First draw the interaction diagram, and make sure the requirements are clear. You first tell what you'll do, then code it.
 
@@ -14,7 +14,7 @@ Clarify requirements as you go along.
 
 Don't refrain from using the board. It's better to invest 2 minutes for a smooth flow.
 
-######Correctness
+###### Correctness
 
 Before you write a major function, define what it does. 
 
@@ -24,13 +24,13 @@ Is concurrency an issue? Most of these cases can't be tested in the limited time
 
 Pick one feature at a time. Write a test to confirm.
 
-######Performance
+###### Performance
 
 Look for bottlenecks in your code. You need to be very familiar with time complexities. Code with O(n^2) time complexity is not acceptable.
 
 Most performance problems related to search can be solved using inverse mapping or priority queues. Look at how a map and queue can work together.
 
-######Tips:
+###### Tips:
 
 a) Clarify requirements
 
