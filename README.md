@@ -1,4 +1,4 @@
-# Custom-Cache-Design---Redis
+# Design Cache From Scratch - (Redis, Memcached)
 
 LLD designs are of two types: Machine coding where you actually build something. And 'Design' where you mention the classes and inheritance/composition relations.
 
