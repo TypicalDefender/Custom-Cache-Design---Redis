@@ -10,8 +10,6 @@ Machine coding is similar to HLD where you clarify requirements of the object yo
 
 First draw the interaction diagram, and make sure the requirements are clear. You first tell what you'll do, then code it.
 
-Walk your interviewer through the code while you write it.
-
 Clarify requirements as you go along.
 
 Don't refrain from using the board. It's better to invest 2 minutes for a smooth flow.
