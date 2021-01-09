@@ -4,6 +4,8 @@ LLD designs are of two types: Machine coding where you actually build something.
 
 Machine coding is similar to HLD where you clarify requirements of the object you are building, and then move on to code it. It requires some show to executable code.
 
+![sequence diagram cache](https://s3.amazonaws.com/thinkific-import-development/305173/sequencediagramcache-201021-164202.png)
+
 ###### Readability
 
 First draw the interaction diagram, and make sure the requirements are clear. You first tell what you'll do, then code it.
