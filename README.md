@@ -41,3 +41,4 @@ b) Code in a structured manner and talk them through the process
 c) Attack the most critical parts first.
 
 ![task scheduler](https://s3.amazonaws.com/thinkific-import-development/305173/Taskschedulerforthreads-201021-164202.png)
+![task scheduler](https://s3.amazonaws.com/thinkific-import-development/305173/threadexecutiononmultiplecores-201021-164202.png)
